@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EduvyDemo</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="service_error">Service Error</string>
+    <string name="someErrorInApi">Some Error In Api</string>
+    <string name="product_price">"Fee : "</string>
+</resources>
